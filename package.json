@@ -1,0 +1,17 @@
+{
+  "name": "testa2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-cucumber": "cucumber-js",
+    "test-jest": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.6.0",
+    "ts-jest": "^29.0.3"
+  }
+}
